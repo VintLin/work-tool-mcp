@@ -6,6 +6,6 @@ A Model Context Protocol (MCP) server for handling work-related tasks including:
 - Text processing and analysis
 """
 
-__version__ = "0.1.4"
+__version__ = "0.1.5"
 __author__ = "vint"
 __email__ = "vintonlin@gmail.com"

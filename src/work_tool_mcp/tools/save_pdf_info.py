@@ -94,11 +94,11 @@ def save_pdf_info(pdf_filepath: str, output_folder: str) -> Dict[str, Any]:
         result = _finalize_file_info(file_info=file_info)
         logger.info(f"PDF信息提取完成: {len(result['pages'])} 页")
 
-        formatted_timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        formatted_timestamp = datetime.now().strftime("%Y%m%d")
         
         logger.info(f"开始保存PDF信息到Excel文件: {formatted_timestamp}")
 
-        info_file = os.path.join(output_folder, f"{file_info['basename']} 信息（{formatted_timestamp}）.xlsx")
+        info_file = os.path.join(output_folder, f"PDF-Info({formatted_timestamp}).xlsx")
         if os.path.exists(info_file):
             # 如果目标目录存在，则删除目录及其内容
             os.remove(info_file)
