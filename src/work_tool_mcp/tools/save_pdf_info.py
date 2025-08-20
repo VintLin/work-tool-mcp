@@ -9,11 +9,7 @@ import logging
 import pdfplumber
 
 from datetime import datetime
-from typing import Any, Dict, List, Set, Union, Optional
-
-from openpyxl import Workbook, load_workbook
-from openpyxl.utils import get_column_letter
-from openpyxl.drawing.image import Image
+from typing import Any, Dict
 
 from .pdf_handler import divide_groups  
 from .excel_handler import ExcelHandler

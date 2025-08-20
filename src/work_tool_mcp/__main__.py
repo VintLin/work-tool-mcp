@@ -1,6 +1,6 @@
 import typer
 
-from work_tool_mcp.server import run_stdio
+from .server import run_stdio
 
 
 app = typer.Typer(name="work-tool-mcp", help="Work tool MCP server")

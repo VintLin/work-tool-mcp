@@ -6,7 +6,7 @@ PDF文本处理工具模块
 
 import string
 import logging
-from typing import List, Dict, Any, Tuple, Optional
+from typing import List, Dict, Any, Tuple
 import numpy as np
 from sklearn.cluster import DBSCAN
 

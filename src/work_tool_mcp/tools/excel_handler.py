@@ -1,20 +1,11 @@
-import mimetypes
-import openpyxl
-import time
-
-from enum import Enum
-from copy import copy
 from openpyxl import Workbook, load_workbook
 from openpyxl.utils import get_column_letter
 from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
 from openpyxl.styles.colors import Color
 from openpyxl.cell.text import InlineFont
 from openpyxl.cell.rich_text import TextBlock, CellRichText
-from openpyxl.drawing.image import Image
-from PIL import Image as PILImage
 
 import re
-import os
 
 from .text_handler import TextHandler
 
