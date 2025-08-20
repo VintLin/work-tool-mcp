@@ -5,7 +5,7 @@
     "work-tool-mcp": {
       "name": "work-tool-mcp",
       "command": "uvx",
-      "args": [ "work-tool-mcp", "stdio" ]
+      "args": [ "work-tool-mcp"]
     }
   }
 }
@@ -19,7 +19,7 @@
       "command": "uv",
       "args": [ 
         "--directory",
-        "/Users/Vint/仓库/mcp/work-tool-mcp-server/src/work_tool_mcp",
+        "xxxx/src/work_tool_mcp",
         "run" 
       ]
     }
