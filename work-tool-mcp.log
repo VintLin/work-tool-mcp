@@ -1,0 +1,160 @@
+2025-08-20 12:20:33,761 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-08-20 12:20:33,762 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-20 12:20:33,762 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:20:34,447 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:20:55,727 - work-tool-mcp - INFO - Starting Work Tool MCP server with stdio transport
+2025-08-20 12:22:27,231 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:22:27,900 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:22:27,900 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:22:27
+2025-08-20 12:22:27,901 - work_tool_mcp.tools.save_pdf_info - INFO - 字号识别文件已保存: /Users/Vint/Desktop/Test/PDF 字号识别（2025-08-20 12:22:27）.xlsx
+2025-08-20 12:22:27,901 - work_tool_mcp.tools.save_pdf_info - INFO - 字体识别文件已保存: /Users/Vint/Desktop/Test/PDF 字体识别（2025-08-20 12:22:27）.xlsx
+2025-08-20 12:22:27,902 - work_tool_mcp.tools.save_pdf_info - INFO - 颜色识别文件已保存: /Users/Vint/Desktop/Test/PDF 颜色识别（2025-08-20 12:22:27）.xlsx
+2025-08-20 12:22:27,902 - work_tool_mcp.tools.save_pdf_info - INFO - 空格识别文件已保存: /Users/Vint/Desktop/Test/PDF 空格识别（2025-08-20 12:22:27）.xlsx
+2025-08-20 12:24:59,021 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:24:59,697 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:24:59,697 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:24:59
+2025-08-20 12:24:59,698 - work_tool_mcp.tools.save_pdf_info - INFO - 字号识别文件已保存: /Users/Vint/Desktop/Test/PDF 字号识别（2025-08-20 12:24:59）.xlsx
+2025-08-20 12:24:59,698 - work_tool_mcp.tools.save_pdf_info - INFO - 字体识别文件已保存: /Users/Vint/Desktop/Test/PDF 字体识别（2025-08-20 12:24:59）.xlsx
+2025-08-20 12:24:59,698 - work_tool_mcp.tools.save_pdf_info - INFO - 颜色识别文件已保存: /Users/Vint/Desktop/Test/PDF 颜色识别（2025-08-20 12:24:59）.xlsx
+2025-08-20 12:24:59,699 - work_tool_mcp.tools.save_pdf_info - INFO - 空格识别文件已保存: /Users/Vint/Desktop/Test/PDF 空格识别（2025-08-20 12:24:59）.xlsx
+2025-08-20 12:25:48,214 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:25:51,354 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:25:51,354 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:25:51
+2025-08-20 12:25:51,356 - work_tool_mcp.tools.save_pdf_info - INFO - 字号识别文件已保存: /Users/Vint/Desktop/Test/PDF 字号识别（2025-08-20 12:25:51）.xlsx
+2025-08-20 12:25:51,357 - work_tool_mcp.tools.save_pdf_info - INFO - 字体识别文件已保存: /Users/Vint/Desktop/Test/PDF 字体识别（2025-08-20 12:25:51）.xlsx
+2025-08-20 12:25:51,358 - work_tool_mcp.tools.save_pdf_info - INFO - 颜色识别文件已保存: /Users/Vint/Desktop/Test/PDF 颜色识别（2025-08-20 12:25:51）.xlsx
+2025-08-20 12:25:51,360 - work_tool_mcp.tools.save_pdf_info - INFO - 空格识别文件已保存: /Users/Vint/Desktop/Test/PDF 空格识别（2025-08-20 12:25:51）.xlsx
+2025-08-20 12:26:10,351 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:26:13,500 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:26:13,500 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:26:13
+2025-08-20 12:27:09,246 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:27:12,368 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:27:12,368 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:27:12
+2025-08-20 12:28:02,991 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:28:06,077 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:28:06,077 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:28:06
+2025-08-20 12:31:00,105 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:31:00,800 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:31:00,800 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:31:00
+2025-08-20 12:31:00,851 - work_tool_mcp.tools.save_pdf_info - INFO - 字号识别文件已保存: /Users/Vint/Desktop/Test/PDF 字号识别（2025-08-20 12:31:00）.xlsx
+2025-08-20 12:31:00,889 - work_tool_mcp.tools.save_pdf_info - INFO - 字体识别文件已保存: /Users/Vint/Desktop/Test/PDF 字体识别（2025-08-20 12:31:00）.xlsx
+2025-08-20 12:31:00,920 - work_tool_mcp.tools.save_pdf_info - INFO - 颜色识别文件已保存: /Users/Vint/Desktop/Test/PDF 颜色识别（2025-08-20 12:31:00）.xlsx
+2025-08-20 12:31:00,978 - work_tool_mcp.tools.save_pdf_info - INFO - 空格识别文件已保存: /Users/Vint/Desktop/Test/PDF 空格识别（2025-08-20 12:31:00）.xlsx
+2025-08-20 12:32:25,337 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:32:26,038 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:32:26,038 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:32:26
+2025-08-20 12:32:26,080 - work_tool_mcp.tools.save_pdf_info - INFO - 字号识别文件已保存: /Users/Vint/Desktop/Test/PDF 字号识别（2025-08-20 12:32:26）.xlsx
+2025-08-20 12:32:26,110 - work_tool_mcp.tools.save_pdf_info - INFO - 字体识别文件已保存: /Users/Vint/Desktop/Test/PDF 字体识别（2025-08-20 12:32:26）.xlsx
+2025-08-20 12:32:26,132 - work_tool_mcp.tools.save_pdf_info - INFO - 颜色识别文件已保存: /Users/Vint/Desktop/Test/PDF 颜色识别（2025-08-20 12:32:26）.xlsx
+2025-08-20 12:32:26,182 - work_tool_mcp.tools.save_pdf_info - INFO - 空格识别文件已保存: /Users/Vint/Desktop/Test/PDF 空格识别（2025-08-20 12:32:26）.xlsx
+2025-08-20 12:37:58,893 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:37:59,577 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:37:59,577 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:37:59
+2025-08-20 12:37:59,619 - work_tool_mcp.tools.save_pdf_info - INFO - 字号识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:37:59）.xlsx
+2025-08-20 12:37:59,651 - work_tool_mcp.tools.save_pdf_info - ERROR - 提取PDF信息失败: 'MergedCell' object attribute 'value' is read-only
+2025-08-20 12:40:07,998 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:40:08,678 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:40:08,678 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:40:08
+2025-08-20 12:40:08,721 - work_tool_mcp.tools.save_pdf_info - INFO - 字号识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:40:08）.xlsx
+2025-08-20 12:40:08,782 - work_tool_mcp.tools.save_pdf_info - INFO - 字体识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:40:08）.xlsx
+2025-08-20 12:40:08,854 - work_tool_mcp.tools.save_pdf_info - INFO - 颜色识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:40:08）.xlsx
+2025-08-20 12:40:08,958 - work_tool_mcp.tools.save_pdf_info - INFO - 空格识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:40:08）.xlsx
+2025-08-20 12:41:01,122 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:41:01,811 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:41:01,811 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:41:01
+2025-08-20 12:41:01,853 - work_tool_mcp.tools.save_pdf_info - INFO - 字号识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:41:01）.xlsx
+2025-08-20 12:41:01,911 - work_tool_mcp.tools.save_pdf_info - INFO - 字体识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:41:01）.xlsx
+2025-08-20 12:41:01,982 - work_tool_mcp.tools.save_pdf_info - INFO - 颜色识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:41:01）.xlsx
+2025-08-20 12:41:02,085 - work_tool_mcp.tools.save_pdf_info - INFO - 空格识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:41:01）.xlsx
+2025-08-20 12:42:44,808 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:42:45,485 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:42:45,485 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:42:45
+2025-08-20 12:42:45,526 - work_tool_mcp.tools.save_pdf_info - INFO - 字号识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:42:45）.xlsx
+2025-08-20 12:42:45,557 - work_tool_mcp.tools.save_pdf_info - ERROR - 提取PDF信息失败: 'MergedCell' object attribute 'value' is read-only
+2025-08-20 12:42:54,775 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:42:55,472 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:42:55,472 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:42:55
+2025-08-20 12:42:55,514 - work_tool_mcp.tools.save_pdf_info - INFO - 字号识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:42:55）.xlsx
+2025-08-20 12:42:55,544 - work_tool_mcp.tools.save_pdf_info - ERROR - 提取PDF信息失败: 'MergedCell' object attribute 'value' is read-only
+2025-08-20 12:44:36,625 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:44:37,300 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:44:37,300 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:44:37
+2025-08-20 12:44:37,342 - work_tool_mcp.tools.save_pdf_info - INFO - 字号识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:44:37）.xlsx
+2025-08-20 12:44:37,372 - work_tool_mcp.tools.save_pdf_info - ERROR - 提取PDF信息失败: 'MergedCell' object attribute 'value' is read-only
+2025-08-20 12:45:28,358 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:45:29,044 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:45:29,045 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:45:29
+2025-08-20 12:45:29,086 - work_tool_mcp.tools.save_pdf_info - INFO - 字号识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:45:29）.xlsx
+2025-08-20 12:45:29,145 - work_tool_mcp.tools.save_pdf_info - INFO - 字体识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:45:29）.xlsx
+2025-08-20 12:45:29,215 - work_tool_mcp.tools.save_pdf_info - INFO - 颜色识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:45:29）.xlsx
+2025-08-20 12:45:29,317 - work_tool_mcp.tools.save_pdf_info - INFO - 空格识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:45:29）.xlsx
+2025-08-20 12:45:53,712 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:45:54,401 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:45:54,401 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:45:54
+2025-08-20 12:45:54,444 - work_tool_mcp.tools.save_pdf_info - INFO - 字号识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:45:54）.xlsx
+2025-08-20 12:45:54,502 - work_tool_mcp.tools.save_pdf_info - INFO - 字体识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:45:54）.xlsx
+2025-08-20 12:45:54,551 - work_tool_mcp.tools.save_pdf_info - INFO - 颜色识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:45:54）.xlsx
+2025-08-20 12:45:54,621 - work_tool_mcp.tools.save_pdf_info - INFO - 空格识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:45:54）.xlsx
+2025-08-20 12:46:17,134 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:46:17,825 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:46:17,825 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:46:17
+2025-08-20 12:46:17,867 - work_tool_mcp.tools.save_pdf_info - INFO - 字号识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:46:17）.xlsx
+2025-08-20 12:46:17,918 - work_tool_mcp.tools.save_pdf_info - ERROR - 提取PDF信息失败: 'Worksheet Sheet does not exist.'
+2025-08-20 12:46:41,215 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:46:41,903 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:46:41,903 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:46:41
+2025-08-20 12:46:41,945 - work_tool_mcp.tools.save_pdf_info - INFO - 字号识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:46:41）.xlsx
+2025-08-20 12:46:42,003 - work_tool_mcp.tools.save_pdf_info - INFO - 字体识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:46:41）.xlsx
+2025-08-20 12:46:42,073 - work_tool_mcp.tools.save_pdf_info - INFO - 颜色识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:46:41）.xlsx
+2025-08-20 12:46:42,175 - work_tool_mcp.tools.save_pdf_info - INFO - 空格识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:46:41）.xlsx
+2025-08-20 12:47:29,896 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:47:30,585 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:47:30,585 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:47:30
+2025-08-20 12:47:30,627 - work_tool_mcp.tools.save_pdf_info - INFO - 字号识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:47:30）.xlsx
+2025-08-20 12:47:30,686 - work_tool_mcp.tools.save_pdf_info - INFO - 字体识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:47:30）.xlsx
+2025-08-20 12:47:30,757 - work_tool_mcp.tools.save_pdf_info - INFO - 颜色识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:47:30）.xlsx
+2025-08-20 12:47:30,860 - work_tool_mcp.tools.save_pdf_info - INFO - 空格识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:47:30）.xlsx
+2025-08-20 12:48:24,587 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:48:25,274 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:48:25,274 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:48:25
+2025-08-20 12:48:25,315 - work_tool_mcp.tools.save_pdf_info - INFO - 字号识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:48:25）.xlsx
+2025-08-20 12:48:25,373 - work_tool_mcp.tools.save_pdf_info - INFO - 字体识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:48:25）.xlsx
+2025-08-20 12:48:25,442 - work_tool_mcp.tools.save_pdf_info - INFO - 颜色识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:48:25）.xlsx
+2025-08-20 12:48:25,544 - work_tool_mcp.tools.save_pdf_info - INFO - 空格识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:48:25）.xlsx
+2025-08-20 12:48:58,746 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-08-20 12:48:58,748 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-08-20 12:49:00,357 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-08-20 12:49:00,358 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-20 12:49:00,358 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:49:01,043 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:49:23,724 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-08-20 12:49:25,753 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-08-20 12:49:58,424 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-08-20 12:49:59,916 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-08-20 12:51:08,777 - work-tool-mcp - INFO - Starting Work Tool MCP server with stdio transport
+2025-08-20 12:51:08,781 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-08-20 12:51:08,783 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-08-20 12:51:08,784 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-08-20 12:51:08,788 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-08-20 12:51:08,789 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-08-20 12:51:08,792 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-08-20 12:51:08,803 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-08-20 12:51:24,084 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-08-20 12:51:24,087 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-20 12:51:24,088 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:51:24,777 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:51:24,777 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:51:24
+2025-08-20 12:51:24,819 - work_tool_mcp.tools.save_pdf_info - INFO - 字号识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:51:24）.xlsx
+2025-08-20 12:51:24,878 - work_tool_mcp.tools.save_pdf_info - INFO - 字体识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:51:24）.xlsx
+2025-08-20 12:51:24,947 - work_tool_mcp.tools.save_pdf_info - INFO - 颜色识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:51:24）.xlsx
+2025-08-20 12:51:25,049 - work_tool_mcp.tools.save_pdf_info - INFO - 空格识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:51:24）.xlsx
+2025-08-20 12:51:45,644 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
+2025-08-20 12:51:45,645 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-20 12:51:45,646 - work_tool_mcp.tools.save_pdf_info - INFO - 开始提取PDF信息: /Users/Vint/Desktop/03 点读脚本生成/inputs/01 欲速则不达.pdf
+2025-08-20 12:51:46,378 - work_tool_mcp.tools.save_pdf_info - INFO - PDF信息提取完成: 20 页
+2025-08-20 12:51:46,379 - work_tool_mcp.tools.save_pdf_info - INFO - 开始保存PDF信息到Excel文件: 2025-08-20 12:51:46
+2025-08-20 12:51:46,419 - work_tool_mcp.tools.save_pdf_info - INFO - 字号识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:51:46）.xlsx
+2025-08-20 12:51:46,477 - work_tool_mcp.tools.save_pdf_info - INFO - 字体识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:51:46）.xlsx
+2025-08-20 12:51:46,545 - work_tool_mcp.tools.save_pdf_info - INFO - 颜色识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:51:46）.xlsx
+2025-08-20 12:51:46,646 - work_tool_mcp.tools.save_pdf_info - INFO - 空格识别文件已保存: /Users/Vint/Desktop/Test/01 欲速则不达 信息（2025-08-20 12:51:46）.xlsx
+2025-08-20 13:08:34,018 - mcp.server.lowlevel.server - INFO - Processing request of type PingRequest
